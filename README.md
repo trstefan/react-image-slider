@@ -1,4 +1,4 @@
-# Project Title
+# Imagine Slider
 
 Imagine slider build in React using Hooks. 
 
