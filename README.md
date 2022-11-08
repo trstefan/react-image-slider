@@ -1,6 +1,6 @@
 # Imagine Slider
 
-Imagine slider build in React using Hooks. 
+Imagine slider built in React using Hooks. 
 
 ## Demo
 
