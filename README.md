@@ -4,7 +4,7 @@ Imagine slider built in React using Hooks.
 
 ## Demo
 
-Here is a working live demo : [_trstefan.github.io/react-image-slider/_](https://www.trstefan.github.io/react-image-slider/)
+Here is a working live demo : [_trstefan.github.io/react-image-slider/_](https://trstefan.github.io/react-image-slider/)
 
 ## Screenshots
 
