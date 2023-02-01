@@ -1,6 +1,6 @@
 # Imagine Slider - ReactJS
-## Demo
 
+## 🔗 Live Demo
 [Demo Link](https://trstefan.github.io/react-image-slider/)
 
 ## 📷 Screenshots
