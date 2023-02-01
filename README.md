@@ -1,26 +1,23 @@
-# Imagine Slider
-
-Imagine slider built in React using Hooks. 
-
+# Imagine Slider - ReactJS
 ## Demo
 
-Here is a working live demo : [_trstefan.github.io/react-image-slider/_](https://trstefan.github.io/react-image-slider/)
+[Demo Link](https://trstefan.github.io/react-image-slider/)
 
-## Screenshots
+## 📷 Screenshots
 
 ![Alternate image text](https://i.ibb.co/K09dL0J/silder.gif)
 
+## 📝 Project Description
 
+Imagine slider built in React using Hooks. 
 
-## Built With
+## 📚 Technologies
 
-  - HTML
-  - CSS
-  - Javascript
   - React
   - React Hooks (useState) 
+  - CSS
 
-### Setup
+## :running: Run locally
 
 Clone the project
 
